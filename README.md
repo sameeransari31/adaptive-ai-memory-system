@@ -55,10 +55,10 @@ The architecture is inspired by **biological memory systems** and applies them t
 
 The system follows a **left-to-right information flow**, clearly separating decision-making from storage.
 
-```
-![Conceptual_Design](https://github.com/user-attachments/assets/1b85bfc6-c8d9-4bdc-865d-264d276476e2)
+<p align="center">
+  <img src="assets/architecture.png" alt="High-Level Architecture" width="700"/>
+</p>
 
-```
 
 ### Core Components
 
