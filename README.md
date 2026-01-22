@@ -1,6 +1,6 @@
 # Adaptive Neural Memory for LLMs
 
-> **A PyTorch-based implementation of human-like, adaptive memory for Artificial Intelligence**, designed to *learn*, *forget*, and *evolve* — without relying on conventional databases.
+> **A PyTorch-based implementation of human-like, adaptive memory for Artificial Intelligence**, designed to *learn*, *forget*, and *evolve* without relying on conventional databases.
 
 ---
 
